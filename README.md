@@ -1,6 +1,3 @@
-Here’s a simplified README file for your project:
-
-```markdown
 # Classification of COVID & Non-COVID CT Scan Images
 
 This project aims to classify CT scan images as either COVID or Non-COVID using machine learning models. It leverages transfer learning with pretrained models to enhance classification accuracy.
