@@ -5,7 +5,7 @@ setup(
     version="0.1",
     description="A classifier for COVID and Non-COVID CT scan images using Fastai, Seaborn, and Scikit-learn.",
     author="Raghav Tigadi",
-    author_email="raghavtigadi@fmail.com",
+    author_email="raghavtigadi@gmail.com",
     url="https://github.com/ragztigadi/Classification-of-COVID-Non-COVID-CT-Scan-Images-",
     packages=find_packages(),
     install_requires=[
